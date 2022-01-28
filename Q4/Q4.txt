@@ -1,0 +1,7 @@
+
+
+First three paragrahs talks about the difficulties in Presentstion Formatting(involves encoding and decoding application data).These difficulties arise because data is represented differently in computers.
+These difficulties include:-
+- Different computers have different formats to represent floating point numbers ,integers and other data types.
+- For integer representation some machines use Big Endian( stores the most significant byte of a word at the lowest memory address) while    some use Little Endian( stores the most significant byte of a even the application word at the highest memory address) and some machines    use both.
+- The application programs are writtern in different laungages and each language have different compilers. 
